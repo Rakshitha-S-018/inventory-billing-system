@@ -92,6 +92,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 **Contact
 For support or questions, please contact:**
 
-Sachin K - sachinisi7111@gmail.com
-GitHub: https://github.com/sachink2103
-Project Link: https://github.com/sachink2103/inventory_billing_system
+
+Rakshitha S- rakshithayadav295@gmail.com
+GitHub: https://github.com/Rakshitha-S-018
+Project Link: https://github.com/Rakshitha-S-018/inventory-billing-system
+
